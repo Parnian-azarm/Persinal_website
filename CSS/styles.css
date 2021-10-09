@@ -1,7 +1,16 @@
 body {
-    background-color: rgb(120, 159, 233) ;
+    background-color: #e59500 ;
+    ;
 }
 
 h1 {
-    color:rgb(216, 66, 39);
+    color: #02040f;
+}
+
+nav a {
+    border : 2px solid #e59500;
+    padding: 10px 15px;
+    background-color: #002642;
+    color: #e5dada;
+
 }
